@@ -9,12 +9,15 @@
 <ol>create <code>config.py</code> file</ol>
 <ol>Enter a config data in this file:</ol>
 ```python
+
 settings = {
     'token': '', # Token here
     'bot': '',  #Bot name here
     'id': 0,  #Bot ID here (int, not str!)
     'prefix': '.!.' #Prefix here
 }
+
+
 ```
 <ol>type on bash/cmd <code>python main.py</code>
 <b>Thats all!</b>
