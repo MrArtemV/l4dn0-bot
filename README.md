@@ -8,7 +8,7 @@
 <ol>type in bash or cmd: <code>git clone https://github.com/MrArtemV/l4dn0-bot</code></ol>
 <ol>create <code>config.py</code> file</ol>
 <ol>Enter a config data in this file:</ol>
-```python
+```
 
 settings = {
     'token': '', # Token here
