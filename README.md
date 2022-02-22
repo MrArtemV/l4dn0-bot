@@ -8,11 +8,11 @@
 <ol>type in bash or cmd: <code>git clone https://github.com/MrArtemV/l4dn0-bot</code></ol>
 <ol>create <code>config.py</code> file</ol>
 <ol>Enter a config data in this file:</ol>
-<code>settings = {<br>
-    'token': '',  # Enter token here<br>
-    'bot': '',  # Bot name<br>
-    'id': 0,  # Enter bot ID here (int, not str)<br>
-    'prefix': '.!.'  # Default prefix<br>
+<code>settings = {
+    'token': '',
+    'bot': '',
+    'id': 0,
+    'prefix': '.!.'
 }
 </code>
 <ol>type on bash/cmd <code>python main.py</code>
